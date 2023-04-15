@@ -2,7 +2,8 @@
 contains the homework other figures used for week 10
 
 
-Homework 11 contains code from the following
+Homework 11 contains code from the following:
+
 my own repositories and past homeworks/projects
 https://www.geeksforgeeks.org/python-central-limit-theorem/
 
