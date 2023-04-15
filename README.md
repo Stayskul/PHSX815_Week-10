@@ -13,3 +13,4 @@ place Random.py into a folder and specify its location in the CentralLim.py file
 This updated Random.py file, contains a new function, which "SkewNorm3" which instead of generating one single random number, can generate an array of length Nmeas
 
 Next, in the terminal, simply run: python3 CentralLim.py -sigx a -mux b, where a and b are the average and standard deviation of the lognorm distribution.
+It will output a panel of 4 histograms, displaying the distribution of means for increasing sample sizes, Nmeas.
